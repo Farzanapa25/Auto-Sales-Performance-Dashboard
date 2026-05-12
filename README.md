@@ -60,6 +60,7 @@ The dataset contains automobile sales transaction details including:
  
 📸 Dashboard Preview
 
+https://github.com/Farzanapa25/Auto-Sales-Performance-Dashboard/blob/97f672af2528d3ebb12190fc407e457834a1e376/FinalPic.png
 
 
 👩‍💻 Author
