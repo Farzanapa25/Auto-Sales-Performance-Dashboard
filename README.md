@@ -1,19 +1,19 @@
-🚗 Auto Sales Performance Analysis Dashboard
+# 🚗 Auto Sales Performance Analysis Dashboard
 
-📊 Project Overview
+# 📊 Project Overview
 
 This project focuses on analyzing automobile sales data and visualizing key business insights using an interactive Tableau dashboard.
 
 The dashboard helps in understanding sales performance, profit trends, and regional distribution.
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Analyze sales and profit performance
 - Identify top-performing product lines and stores
 - Understand sales trends over time
 - Provide interactive data exploration
  
-📁 Dataset
+# 📁 Dataset
 
 The dataset contains automobile sales transaction details including:
 
@@ -25,12 +25,12 @@ The dataset contains automobile sales transaction details including:
 - Country
 - Order Date
  
-⚙️ Tools Used
+# ⚙️ Tools Used
 
 - Tableau (for dashboard development)
 - Excel / CSV (data source)
 
-📈 Dashboard Features
+# 📈 Dashboard Features
 
 - Sales by Product Line (Bar Chart)
 - Sales Trend Over Time (Line Chart)
@@ -39,31 +39,31 @@ The dataset contains automobile sales transaction details including:
 - Top Stores Analysis (Horizontal Bar Chart)
 - Interactive Filters (Year, Product Line, Country)
 
-🔍 Key Insights
+# 🔍 Key Insights
 
 - Identified top-performing product categories
 - Found high-revenue regions
 - Analyzed store-level performance
 - Observed sales trends over time
 
-💡 Recommendations
+# 💡 Recommendations
 
 - Focus on high-performing regions and products
 - Improve performance of low-performing stores
 - Use dashboard insights for decision-making
 
-🚀 Future Scope
+# 🚀 Future Scope
 
 - Integration with real-time data
 - Predictive analytics and forecasting
 - Advanced dashboard enhancements
  
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 <img width="1919" height="989" alt="Image" src="https://github.com/user-attachments/assets/52bcbc28-96c9-4014-b6ba-ae94b52629cb" />
 
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Farzana PA
 
